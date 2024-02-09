@@ -2,17 +2,15 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/finish2.jpg
-heading: Great coffee with a conscience
+heading: KB-TK Generasi Kasih Indonesia
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Masih Bingung Cari TK Kristen di Juwana?
   description: >
     TK Generasi Kasih hadir dengan pendekatan pembelajaran yang inovatif dan penuh kasih sayang, dan menjadi tempat belajar yang menyenangkan dan kreatif bagi anak-anak. Bergabunglah dengan kami untuk menciptakan fondasi pendidikan yang kokoh bagi masa depan cerah anak Anda.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+ Kurikulum pembelajaran Generasi Kasih ini dikembangkan sebagai perwujudan dan kurikulum Pendidikan Anak Usia Dini. Kurikulum ini disusun oleh satu Tim Penyusun terdiri atas Kepala Sekolah, Guru, Pembina, Yayasan Generasi Kasih Indonesia, Majelis Jemaat GKI Juwana.
+ Sekolah KB dan TK Generasi Kasih hendaknya bersifat mendidik, mencerdaskan, membangkitkan aktivitas dan kreativitas anak, efektif, demokratis, menantang, menyenangkan, dan mengasyikkan.
 intro:
   blurbs:
     - image: /img/ibadahraya.jpg
