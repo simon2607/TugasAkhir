@@ -49,7 +49,7 @@ export const ProductPageTemplate = ({
                     {/* <p>{main.description}</p> */}
                   </div>
                 </div>
-                {/* <div className="tile is-ancestor">
+                <div className="tile is-ancestor">
                   <div className="tile is-vertical">
                     <div className="tile">
                       <div className="tile is-parent is-vertical">
@@ -69,7 +69,7 @@ export const ProductPageTemplate = ({
                       </article>
                     </div>
                   </div>
-                </div> */}
+                </div>
                 <Testimonials testimonials={testimonials} />
               </div>
             </div>
