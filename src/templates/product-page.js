@@ -26,7 +26,7 @@ export const ProductPageTemplate = ({
 
   return (
     <div className="content">
-      <FullWidthImage img={heroImage} title={title} />
+      <FullWidthImage img={heroImage}  />
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
