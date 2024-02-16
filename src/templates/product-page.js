@@ -77,21 +77,21 @@ export const ProductPageTemplate = ({
         </div>
       </section>
       <FullWidthImage img={fullWidthImage} imgPosition={"bottom"} />
-      {/* <section className="section section--gradient">
+      <section className="section section--gradient">
         <div className="container">
           <div className="section">
             <div className="columns">
               <div className="column is-10 is-offset-1">
-                <h2 className="has-text-weight-semibold is-size-2">
+                {/* <h2 className="has-text-weight-semibold is-size-2">
                   {pricing.heading}
                 </h2>
                 <p className="is-size-5">{pricing.description}</p>
-                <Pricing data={pricing.plans} />
+                <Pricing data={pricing.plans} /> */}
               </div>
             </div>
           </div>
         </div>
-      </section> */}
+      </section>
     </div>
   );
 };
